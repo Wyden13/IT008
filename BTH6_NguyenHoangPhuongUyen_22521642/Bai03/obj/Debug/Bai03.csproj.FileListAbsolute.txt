@@ -1,0 +1,12 @@
+C:\Users\Wave\Documents\UIT-nam2\IT008 - Lap trinh truc quan\BTH6_NguyenHoangPhuongUyen_22521642\Bai03\bin\Debug\Bai03.exe.config
+C:\Users\Wave\Documents\UIT-nam2\IT008 - Lap trinh truc quan\BTH6_NguyenHoangPhuongUyen_22521642\Bai03\bin\Debug\Bai03.exe
+C:\Users\Wave\Documents\UIT-nam2\IT008 - Lap trinh truc quan\BTH6_NguyenHoangPhuongUyen_22521642\Bai03\bin\Debug\Bai03.pdb
+C:\Users\Wave\Documents\UIT-nam2\IT008 - Lap trinh truc quan\BTH6_NguyenHoangPhuongUyen_22521642\Bai03\obj\Debug\Bai03.csproj.AssemblyReference.cache
+C:\Users\Wave\Documents\UIT-nam2\IT008 - Lap trinh truc quan\BTH6_NguyenHoangPhuongUyen_22521642\Bai03\obj\Debug\Bai03.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wave\Documents\UIT-nam2\IT008 - Lap trinh truc quan\BTH6_NguyenHoangPhuongUyen_22521642\Bai03\obj\Debug\Bai03.Form1.resources
+C:\Users\Wave\Documents\UIT-nam2\IT008 - Lap trinh truc quan\BTH6_NguyenHoangPhuongUyen_22521642\Bai03\obj\Debug\Bai03.Properties.Resources.resources
+C:\Users\Wave\Documents\UIT-nam2\IT008 - Lap trinh truc quan\BTH6_NguyenHoangPhuongUyen_22521642\Bai03\obj\Debug\Bai03.csproj.GenerateResource.cache
+C:\Users\Wave\Documents\UIT-nam2\IT008 - Lap trinh truc quan\BTH6_NguyenHoangPhuongUyen_22521642\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+C:\Users\Wave\Documents\UIT-nam2\IT008 - Lap trinh truc quan\BTH6_NguyenHoangPhuongUyen_22521642\Bai03\obj\Debug\Bai03.exe
+C:\Users\Wave\Documents\UIT-nam2\IT008 - Lap trinh truc quan\BTH6_NguyenHoangPhuongUyen_22521642\Bai03\obj\Debug\Bai03.pdb
+C:\Users\Wave\Documents\UIT-nam2\IT008 - Lap trinh truc quan\BTH6_NguyenHoangPhuongUyen_22521642\Bai03\obj\Debug\Bai03.AboutForm.resources
