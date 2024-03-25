@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t0PSqQ5hIlESqkUVBTmFeqJfBd86vc8QDxvxDXkOrlohQsmxOlSJ9X4kIdUAHhw3hNiCQqh+XxOmVU/tsQ4p7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wave\\Documents\\UIT-nam2\\IT008 - Lap trinh truc quan\\BTH2_NguyenHoangPhuongUyen_22521642\\Bai01\\Bai01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wave\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Wave\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Wave\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Wave\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
